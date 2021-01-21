@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a7591e6-c8f1-4b82-b987-6ab93e94c76d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/object.js" afterDir="false" />
+    <list default="true" id="3a7591e6-c8f1-4b82-b987-6ab93e94c76d" name="Default Changelist" comment="&quot;object&quot;">
+      <change afterPath="$PROJECT_DIR$/feetToinches.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array.js" beforeDir="false" afterPath="$PROJECT_DIR$/array.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object.js" beforeDir="false" afterPath="$PROJECT_DIR$/object.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,16 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="function.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/function.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.function.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,8 +61,18 @@
       <workItem from="1609949605565" duration="306000" />
       <workItem from="1610522281446" duration="591000" />
       <workItem from="1610641759105" duration="1754000" />
-      <workItem from="1610726801492" duration="9974000" />
+      <workItem from="1610726801492" duration="10182000" />
+      <workItem from="1610813773565" duration="1443000" />
+      <workItem from="1611038939474" duration="2780000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;object&quot;">
+      <created>1610797465047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610797465047</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +101,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;object&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;object&quot;" />
   </component>
 </project>

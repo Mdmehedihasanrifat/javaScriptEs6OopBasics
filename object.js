@@ -11,3 +11,25 @@ var umbrella = {
     },
     // your code goes here
 };
+
+
+console.log(umbrella.open());
+
+
+
+
+
+
+
+
+var patient={
+
+    id:10,
+
+    name:"don"
+
+}
+
+console.log(patient.name);
+
+// document.write(patient.name);
