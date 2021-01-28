@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a7591e6-c8f1-4b82-b987-6ab93e94c76d" name="Default Changelist" comment="&quot;object&quot;">
-      <change afterPath="$PROJECT_DIR$/factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionExperssion.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1m8PLPUqmPfOgo8Ck3hs5vbeYAW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,7 +67,10 @@
       <workItem from="1610641759105" duration="1754000" />
       <workItem from="1610726801492" duration="10182000" />
       <workItem from="1610813773565" duration="1443000" />
-      <workItem from="1611038939474" duration="5579000" />
+      <workItem from="1611038939474" duration="8484000" />
+      <workItem from="1611287133012" duration="9830000" />
+      <workItem from="1611576863867" duration="588000" />
+      <workItem from="1611808665657" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;object&quot;">
       <created>1610797465047</created>
