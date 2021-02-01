@@ -33,3 +33,19 @@ var patient={
 console.log(patient.name);
 
 // document.write(patient.name);
+
+//object function
+
+var student={
+
+    id:1,
+    name:"rifat",
+    display:function (){
+
+
+        console.log(this.id);
+        console.log(this.name);
+    }
+}
+
+student.display();
