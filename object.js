@@ -20,7 +20,12 @@ console.log(umbrella.open());
 
 
 
-
+let  mypost={};
+mypost.title="object";
+mypost["number"]=5;
+mypost["info"]={};
+mypost.info.details="hello";
+console.log(mypost);
 
 var patient={
 
